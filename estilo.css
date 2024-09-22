@@ -54,14 +54,16 @@ img {
 
 }
 
-.categoria-videos img { 
-opacity: 0.5;
-height: 200px;
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
 }
 
 .categoria-videos img:hover {
-opacity: 1.0;
-border: 1px solid green;
+    opacity: 1.0;
+    border: 1px solid green;
 }
 
-.categoria h2 { color: #aa7dee;}
+.categoria h2 {
+    color: #aa7dee;
+}
